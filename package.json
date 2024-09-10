@@ -1,0 +1,20 @@
+{
+  "engines": {
+    "node" : "20.11.0"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^8.6.1"
+  },
+  "name": "todo-shailesh",
+  "version": "1.0.0",
+  "description": "Todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shailesh",
+  "license": "ISC"
+}
